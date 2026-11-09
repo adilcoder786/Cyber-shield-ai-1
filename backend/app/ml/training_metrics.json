@@ -1,0 +1,10 @@
+{
+  "url_model": {
+    "accuracy": 1.0,
+    "f1": 1.0
+  },
+  "message_model": {
+    "accuracy": 0.8666666666666667,
+    "f1": 0.875
+  }
+}
